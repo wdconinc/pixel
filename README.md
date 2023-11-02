@@ -1,1 +1,3 @@
 # pixel
+
+<img src="https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJxdWx6cUtZRUhHNGV3NVNmZkNueU5xSHV4bW8zNGFtQSIsCiAgInVzZXJJZCI6ICJVbWFuaXRvYmEtV291dGVyLmRlY29uaW5jayIsCiAgImV2ZW50IjogIkVtYWlsIE9wZW5lZCIsCiAgInByb3BlcnRpZXMiOiB7CiAgICAic3ViamVjdCI6ICJUaGUgRWxlY3RyaWMgRGFpbHkiLAogICAgImVtYWlsIjogImphbmUua2ltQGV4YW1wbGUuY29tIgogIH0KfQo="/>
